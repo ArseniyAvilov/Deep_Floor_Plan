@@ -1,0 +1,4 @@
+notebook==6.5.4
+numpy==1.25.0
+torch==2.0.1
+torchvision==0.15.2
